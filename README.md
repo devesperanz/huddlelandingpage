@@ -1,0 +1,2 @@
+# HUDDLE LANDING PAGE
+This is a landing pge i made with html and css. it is also my first project deployed to github. i'm so happy i learnt this today, i can now show the world every little thing i design. 
