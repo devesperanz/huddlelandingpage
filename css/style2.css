@@ -1,0 +1,29 @@
+
+.section2-content{
+    background-color: rgb(246,251,255);            
+}
+.section2-body img{
+    width:70% ;
+    margin-top:20px;
+
+}
+.section2-body, .section3-body{
+    display: flex;    
+}
+.section2-body-text{
+    padding-top: 70px;    
+    width:100%;
+    margin-left:80px
+}
+.curved img, .curved-img{
+    width:100%;    
+}
+.section2-body-text h1, .section3-body-text h1{
+    font-size: 40px;
+    padding-bottom: 10px;    
+}
+.section2-body-text p{
+    width:75%;
+    font-size:20px;    
+    text-align:justify
+}
